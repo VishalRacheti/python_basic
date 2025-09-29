@@ -1,0 +1,4 @@
+# we will ignore the below files
+*.pyc # Ignore all .pyc files
+__pycache__/ # Ignore the __pycache__ directory   
+gitlogfile
