@@ -16,6 +16,4 @@ elif any(char.isdigit() for char in username):
     print("Username must not contain digits.")
 
 else:
-    print(f"Username is valid. {username}")
-
-
+    print(f"Username is valid. {username}")  
